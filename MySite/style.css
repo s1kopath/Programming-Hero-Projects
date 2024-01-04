@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    text-align: right;
+    
+    
+}
+.head{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+h1{
+    font-size: 50px;
+    color: white;
+    
+}
+h2{
+    font-size: 40px;
+    color: blueviolet;
+}
+
+p{
+    color: rgb(90, 89, 89);
+}
+
+.name-highlight{
+    color: rgb(243, 85, 85);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.half-width img{
+    
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/3.jpg");
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+}
+#p1{
+    color: white;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.dream-area{
+    background-image: url("images/1.jpg");
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-size: 100%;
+    margin-bottom: 80px;
+}
+#w-h{
+    color: black;
+    text-align: center;
+}
+.single-experiance{
+    box-shadow: 10px 10px 70px rgb(0, 0, 0);
+    border-radius: 30px;
+    height: auto;
+    background-color: white;
+    border: 10px solid white;
+   
+}
+.experience-area{
+    background-image: url("images/top.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.work-pic{
+    height: 200px; 
+    width: 300px ;
+    border-radius: 30px;
+    
+    
+}
+
+.work-inquary{
+    box-shadow: cornsilk;
+    border: 50px;
+    border-radius: 20px;
+    width: 60%;
+    height: 140px;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 10px 10px 40px rgb(2, 2, 2);
+    background-image: repeating-linear-gradient(45deg, rgb(113, 16, 224), rgb(16, 255, 235));
+}
+#work{
+    margin-left: 5%;
+    float: left;
+    
+    border-radius: 5px;
+}
+.chat-button{
+    float: right;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.c1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 17, 17);
+    text-align: center;
+    margin-top: 20%;
+    
+    
+}
+
+footer p{
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+}
+.navbar-bgcolor{
+    background: #ffffff;
+    
+}
+
+.nav-icon{
+    
+    width: 250px;
+    margin-right: 600px;
+    
+     
+}
+.navbar-text{
+    margin-right: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.landing-pic{
+    width: 600px;
+}
+.tagline{
+    color: gray;
+}
+.sign-btn{
+    border: none;
+    margin-top: 50px;
+    border-radius: 50px;
+    background-image: linear-gradient( 90deg, rgb(7, 218, 255), rgb(4, 253, 116));
+    padding: 15px;
+}

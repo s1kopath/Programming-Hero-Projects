@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "AJ Styles",
+        "gender": "Male",
+        "salary": 6500,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/AJ_Styles_WrestleMania_32_Axxess.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Drew McIntyre",
+        "gender": "Male",
+        "salary": 4200,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Drew_Galloway_March_2017.jpg"
+    },
+    {
+        "id": 3,
+        "name": "The Miz",
+        "gender": "Male",
+        "salary": 9000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Miz_Dec_2017.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Randy Orton",
+        "gender": "Male",
+        "salary": 3800,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Randy_Orton_April_2018.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lana",
+        "gender": "Female",
+        "salary": 1800,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/WrestleMania_32_Axxess_2016-03-31_19-45-11_ILCE-6000_3740_DxO_%2826872631282%29.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Becky Lynch",
+        "gender": "Female",
+        "salary": 9700,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Becky_Lynch_July_2019.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dolph Ziggler",
+        "gender": "Male",
+        "salary": 2800,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Dolph_Ziggler_Axxess_2016_crop.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Rikishi",
+        "gender": "Male",
+        "salary": 7300,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/C2E2_2015_-_Rikishi_%2817119910909%29.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Rey Mysterio",
+        "gender": "Male",
+        "salary": 6528,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rey_Mysterio_%2829081123617%29.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bray Wyatt",
+        "gender": "Male",
+        "salary": 2755,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bray_Wyatt_2017.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Carmella",
+        "gender": "Female",
+        "salary": 2245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/WWE_Carmella_2019.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Buddy Murphy",
+        "gender": "Male",
+        "salary": 3001,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Buddy_Murphy_April_2018.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Sasha Banks",
+        "gender": "Female",
+        "salary": 8223,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sasha_Banks_Axxess_2018_crop.jpg"
+    },
+    {
+        "id": 14,
+        "name": "R-Truth",
+        "gender": "Male",
+        "salary": 3557,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/R-Truth_in_April_2016_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Sheamus",
+        "gender": "Male",
+        "salary": 7000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sheamus_March_2018.jpg"
+    }
+]

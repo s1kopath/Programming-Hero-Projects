@@ -1,0 +1,54 @@
+body{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: rgb(134, 130, 130);
+    
+}
+
+#mainPage{
+    margin-left: 50px;
+    
+    
+}
+.searchBar{
+    margin-left: 30%;
+}
+#searchField{
+    height: 50px;
+    width: 430px;
+    border: none;
+    border-radius: 5px;
+}
+#searchBtn{
+    height: 50px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+}
+#foodContainer{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+    
+}
+.mealPic{
+    height: 200px;
+    width: 250px;
+    border-radius: 15px;
+}
+#displayMealIngredient{    
+    border-radius: 15px;
+    display: none;
+    padding-left: 40%;
+    
+}
+#displayMealIngredient img{
+    height: 300px;
+    width: 400px;
+    
+}

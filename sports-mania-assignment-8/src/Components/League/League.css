@@ -1,0 +1,41 @@
+.LeagueInfo{
+    background-color: rgb(0, 4, 255);
+    height: 250px;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+.detailsBanner{
+    width: 100%;
+    height: 300px;
+}
+.genderImg{
+    height: 220px;
+    margin-left: 75%;
+}
+.LeagueBackground{
+    background-color: #0E0A2A;
+    padding: 20px;
+    color: white;
+}
+.socialIcon img{
+    height: 70px;
+}
+.socialIcon{
+    margin-left: 41%;
+}
+.logo{
+    
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 65px;
+    
+}
+.leagueBanner{
+    background-image: url('/src/photo/banner1.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100%;
+    width: 100%;
+    height: 300px;
+}

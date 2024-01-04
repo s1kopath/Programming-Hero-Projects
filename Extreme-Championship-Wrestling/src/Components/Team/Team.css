@@ -1,0 +1,8 @@
+.teamInfo{
+    margin-left: 175px;
+    float: right;
+    margin-top: 20px;
+}
+.playerContainer{
+    display: flex;
+}
